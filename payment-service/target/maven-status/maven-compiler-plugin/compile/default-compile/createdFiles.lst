@@ -1,7 +1,7 @@
-br/com/jornadacolaborativa/microservice/saga/choreography/payment/entity/UserTransaction.class
-br/com/jornadacolaborativa/microservice/saga/choreography/payment/service/PaymentService.class
-br/com/jornadacolaborativa/microservice/saga/choreography/payment/config/PaymentConfig.class
-br/com/jornadacolaborativa/microservice/saga/choreography/payment/repository/UserBalanceRepository.class
-br/com/jornadacolaborativa/microservice/saga/choreography/payment/entity/UserBalance.class
-br/com/jornadacolaborativa/microservice/saga/choreography/payment/PaymentApplication.class
-br/com/jornadacolaborativa/microservice/saga/choreography/payment/repository/UserTransactionRepository.class
+br/com/jornadacolaborativa/microservice/payment/entity/UserTransaction.class
+br/com/jornadacolaborativa/microservice/payment/config/PaymentConfig.class
+br/com/jornadacolaborativa/microservice/payment/repository/UserBalanceRepository.class
+br/com/jornadacolaborativa/microservice/payment/repository/UserTransactionRepository.class
+br/com/jornadacolaborativa/microservice/payment/service/PaymentService.class
+br/com/jornadacolaborativa/microservice/payment/PaymentApplication.class
+br/com/jornadacolaborativa/microservice/payment/entity/UserBalance.class

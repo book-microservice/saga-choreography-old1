@@ -1,7 +1,7 @@
-/mnt/c/developer/microservice-book/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/payment/repository/UserTransactionRepository.java
-/mnt/c/developer/microservice-book/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/payment/PaymentApplication.java
-/mnt/c/developer/microservice-book/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/payment/service/PaymentService.java
-/mnt/c/developer/microservice-book/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/payment/entity/UserBalance.java
-/mnt/c/developer/microservice-book/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/payment/repository/UserBalanceRepository.java
-/mnt/c/developer/microservice-book/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/payment/entity/UserTransaction.java
-/mnt/c/developer/microservice-book/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/payment/config/PaymentConfig.java
+/mnt/c/developer/book-microservice/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/payment/entity/UserTransaction.java
+/mnt/c/developer/book-microservice/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/payment/service/PaymentService.java
+/mnt/c/developer/book-microservice/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/payment/entity/UserBalance.java
+/mnt/c/developer/book-microservice/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/payment/PaymentApplication.java
+/mnt/c/developer/book-microservice/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/payment/repository/UserBalanceRepository.java
+/mnt/c/developer/book-microservice/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/payment/repository/UserTransactionRepository.java
+/mnt/c/developer/book-microservice/saga-choreography/payment-service/src/main/java/br/com/jornadacolaborativa/microservice/payment/config/PaymentConfig.java

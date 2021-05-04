@@ -1,7 +1,7 @@
-br/com/jornadacolaborativa/microservice/saga/choreography/inventory/entity/OrderInventoryConsumption.class
-br/com/jornadacolaborativa/microservice/saga/choreography/inventory/InventoryApplication.class
-br/com/jornadacolaborativa/microservice/saga/choreography/inventory/repository/OrderInventoryRepository.class
-br/com/jornadacolaborativa/microservice/saga/choreography/inventory/service/InventoryService.class
-br/com/jornadacolaborativa/microservice/saga/choreography/inventory/repository/OrderInventoryConsumptionRepository.class
-br/com/jornadacolaborativa/microservice/saga/choreography/inventory/entity/OrderInventory.class
-br/com/jornadacolaborativa/microservice/saga/choreography/inventory/config/InventoryConfig.class
+br/com/jornadacolaborativa/microservice/inventory/InventoryApplication.class
+br/com/jornadacolaborativa/microservice/inventory/entity/OrderInventoryConsumption.class
+br/com/jornadacolaborativa/microservice/inventory/repository/OrderInventoryRepository.class
+br/com/jornadacolaborativa/microservice/inventory/config/InventoryConfig.class
+br/com/jornadacolaborativa/microservice/inventory/service/InventoryService.class
+br/com/jornadacolaborativa/microservice/inventory/repository/OrderInventoryConsumptionRepository.class
+br/com/jornadacolaborativa/microservice/inventory/entity/OrderInventory.class

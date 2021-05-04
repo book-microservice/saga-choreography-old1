@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>saga-choreography</artifactId>
-        <groupId>br.com.jornadacolaborativa.microservice.saga.choreography</groupId>
+        <groupId>br.com.jornadacolaborativa.microservice</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -13,5 +13,4 @@
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
     </properties>
     <artifactId>common-dto</artifactId>
-
 </project>

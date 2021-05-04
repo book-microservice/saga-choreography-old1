@@ -1,0 +1,11 @@
+/mnt/c/developer/microservice-book/saga-choreography-old/order-service/src/main/java/com/vinsguru/order/config/ProductPriceConfig.java
+/mnt/c/developer/microservice-book/saga-choreography-old/order-service/src/main/java/com/vinsguru/order/controller/OrderController.java
+/mnt/c/developer/microservice-book/saga-choreography-old/order-service/src/main/java/com/vinsguru/order/service/OrderCommandService.java
+/mnt/c/developer/microservice-book/saga-choreography-old/order-service/src/main/java/com/vinsguru/order/entity/PurchaseOrder.java
+/mnt/c/developer/microservice-book/saga-choreography-old/order-service/src/main/java/com/vinsguru/order/service/OrderQueryService.java
+/mnt/c/developer/microservice-book/saga-choreography-old/order-service/src/main/java/com/vinsguru/order/config/OrderConfig.java
+/mnt/c/developer/microservice-book/saga-choreography-old/order-service/src/main/java/com/vinsguru/order/OrderServiceApplication.java
+/mnt/c/developer/microservice-book/saga-choreography-old/order-service/src/main/java/com/vinsguru/order/repository/PurchaseOrderRepository.java
+/mnt/c/developer/microservice-book/saga-choreography-old/order-service/src/main/java/com/vinsguru/order/config/OrderStatusUpdateEventHandler.java
+/mnt/c/developer/microservice-book/saga-choreography-old/order-service/src/main/java/com/vinsguru/order/config/EventHandlersConfig.java
+/mnt/c/developer/microservice-book/saga-choreography-old/order-service/src/main/java/com/vinsguru/order/service/OrderStatusPublisher.java

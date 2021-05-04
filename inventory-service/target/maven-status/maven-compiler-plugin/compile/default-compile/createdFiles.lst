@@ -1,0 +1,7 @@
+com/vinsguru/inventory/repository/OrderInventoryConsumptionRepository.class
+com/vinsguru/inventory/entity/OrderInventory.class
+com/vinsguru/inventory/entity/OrderInventoryConsumption.class
+com/vinsguru/inventory/service/InventoryService.class
+com/vinsguru/inventory/InventoryApplication.class
+com/vinsguru/inventory/config/InventoryConfig.class
+com/vinsguru/inventory/repository/OrderInventoryRepository.class

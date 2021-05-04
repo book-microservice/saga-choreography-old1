@@ -1,0 +1,20 @@
+server:
+  port: 8082
+
+spring:
+  h2.console.enabled: true
+  datasource.url: jdbc:h2:mem:payment
+  data.jpa.repositories.bootstrap-mode: default
+  kafka.consumer.client-id: consumer-payment-service
+
+spring.cloud.stream:
+  kafka:
+    binder:
+     replication-factor: 1
+  function:
+    definition: paymentProcessor
+  bindings:
+    paymentProcessor-in-0:
+      destination: order-event
+    paymentProcessor-out-0:
+      destination: payment-event

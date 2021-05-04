@@ -1,0 +1,12 @@
+/mnt/c/developer/microservice-book/saga-choreography/common-dto/src/main/java/com/vinsguru/events/payment/PaymentStatus.java
+/mnt/c/developer/microservice-book/saga-choreography/common-dto/src/main/java/com/vinsguru/dto/PaymentDto.java
+/mnt/c/developer/microservice-book/saga-choreography/common-dto/src/main/java/com/vinsguru/events/inventory/InventoryEvent.java
+/mnt/c/developer/microservice-book/saga-choreography/common-dto/src/main/java/com/vinsguru/dto/PurchaseOrderDto.java
+/mnt/c/developer/microservice-book/saga-choreography/common-dto/src/main/java/com/vinsguru/dto/InventoryDto.java
+/mnt/c/developer/microservice-book/saga-choreography/common-dto/src/main/java/com/vinsguru/events/order/OrderEvent.java
+/mnt/c/developer/microservice-book/saga-choreography/common-dto/src/main/java/com/vinsguru/dto/OrderRequestDto.java
+/mnt/c/developer/microservice-book/saga-choreography/common-dto/src/main/java/com/vinsguru/events/payment/PaymentEvent.java
+/mnt/c/developer/microservice-book/saga-choreography/common-dto/src/main/java/com/vinsguru/dto/OrderResponseDto.java
+/mnt/c/developer/microservice-book/saga-choreography/common-dto/src/main/java/com/vinsguru/events/Event.java
+/mnt/c/developer/microservice-book/saga-choreography/common-dto/src/main/java/com/vinsguru/events/order/OrderStatus.java
+/mnt/c/developer/microservice-book/saga-choreography/common-dto/src/main/java/com/vinsguru/events/inventory/InventoryStatus.java

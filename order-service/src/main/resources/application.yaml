@@ -1,0 +1,22 @@
+server:
+  port: 8080
+
+spring:
+  h2.console.enabled: true
+  datasource.url: jdbc:h2:mem:order
+  data.jpa.repositories.bootstrap-mode: default
+  kafka.consumer.client-id: consumer-order-service
+
+spring.cloud.stream:
+  kafka:
+    binder:
+      replication-factor: 1
+  function:
+    definition: orderSupplier;paymentEventConsumer;inventoryEventConsumer
+  bindings:
+    orderSupplier-out-0:
+      destination: order-event
+    paymentEventConsumer-in-0:
+      destination: payment-event
+    inventoryEventConsumer-in-0:
+      destination: inventory-event

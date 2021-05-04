@@ -1,7 +1,7 @@
-/mnt/c/developer/microservice-book/saga-choreography-old/inventory-service/src/main/java/com/vinsguru/inventory/entity/OrderInventory.java
-/mnt/c/developer/microservice-book/saga-choreography-old/inventory-service/src/main/java/com/vinsguru/inventory/service/InventoryService.java
-/mnt/c/developer/microservice-book/saga-choreography-old/inventory-service/src/main/java/com/vinsguru/inventory/repository/OrderInventoryRepository.java
-/mnt/c/developer/microservice-book/saga-choreography-old/inventory-service/src/main/java/com/vinsguru/inventory/InventoryApplication.java
-/mnt/c/developer/microservice-book/saga-choreography-old/inventory-service/src/main/java/com/vinsguru/inventory/repository/OrderInventoryConsumptionRepository.java
-/mnt/c/developer/microservice-book/saga-choreography-old/inventory-service/src/main/java/com/vinsguru/inventory/config/InventoryConfig.java
-/mnt/c/developer/microservice-book/saga-choreography-old/inventory-service/src/main/java/com/vinsguru/inventory/entity/OrderInventoryConsumption.java
+/mnt/c/developer/microservice-book/saga-choreography/inventory-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/inventory/service/InventoryService.java
+/mnt/c/developer/microservice-book/saga-choreography/inventory-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/inventory/repository/OrderInventoryConsumptionRepository.java
+/mnt/c/developer/microservice-book/saga-choreography/inventory-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/inventory/entity/OrderInventory.java
+/mnt/c/developer/microservice-book/saga-choreography/inventory-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/inventory/config/InventoryConfig.java
+/mnt/c/developer/microservice-book/saga-choreography/inventory-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/inventory/entity/OrderInventoryConsumption.java
+/mnt/c/developer/microservice-book/saga-choreography/inventory-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/inventory/InventoryApplication.java
+/mnt/c/developer/microservice-book/saga-choreography/inventory-service/src/main/java/br/com/jornadacolaborativa/microservice/saga/choreography/inventory/repository/OrderInventoryRepository.java

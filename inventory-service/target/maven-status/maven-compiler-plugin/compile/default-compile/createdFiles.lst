@@ -1,7 +1,7 @@
-com/vinsguru/inventory/repository/OrderInventoryConsumptionRepository.class
-com/vinsguru/inventory/entity/OrderInventory.class
-com/vinsguru/inventory/entity/OrderInventoryConsumption.class
-com/vinsguru/inventory/service/InventoryService.class
-com/vinsguru/inventory/InventoryApplication.class
-com/vinsguru/inventory/config/InventoryConfig.class
-com/vinsguru/inventory/repository/OrderInventoryRepository.class
+br/com/jornadacolaborativa/microservice/saga/choreography/inventory/entity/OrderInventoryConsumption.class
+br/com/jornadacolaborativa/microservice/saga/choreography/inventory/InventoryApplication.class
+br/com/jornadacolaborativa/microservice/saga/choreography/inventory/repository/OrderInventoryRepository.class
+br/com/jornadacolaborativa/microservice/saga/choreography/inventory/service/InventoryService.class
+br/com/jornadacolaborativa/microservice/saga/choreography/inventory/repository/OrderInventoryConsumptionRepository.class
+br/com/jornadacolaborativa/microservice/saga/choreography/inventory/entity/OrderInventory.class
+br/com/jornadacolaborativa/microservice/saga/choreography/inventory/config/InventoryConfig.class

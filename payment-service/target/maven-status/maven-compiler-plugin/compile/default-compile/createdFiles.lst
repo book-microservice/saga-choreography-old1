@@ -1,7 +1,7 @@
-com/vinsguru/payment/config/PaymentConfig.class
-com/vinsguru/payment/PaymentApplication.class
-com/vinsguru/payment/service/PaymentService.class
-com/vinsguru/payment/repository/UserTransactionRepository.class
-com/vinsguru/payment/entity/UserTransaction.class
-com/vinsguru/payment/entity/UserBalance.class
-com/vinsguru/payment/repository/UserBalanceRepository.class
+br/com/jornadacolaborativa/microservice/saga/choreography/payment/entity/UserTransaction.class
+br/com/jornadacolaborativa/microservice/saga/choreography/payment/service/PaymentService.class
+br/com/jornadacolaborativa/microservice/saga/choreography/payment/config/PaymentConfig.class
+br/com/jornadacolaborativa/microservice/saga/choreography/payment/repository/UserBalanceRepository.class
+br/com/jornadacolaborativa/microservice/saga/choreography/payment/entity/UserBalance.class
+br/com/jornadacolaborativa/microservice/saga/choreography/payment/PaymentApplication.class
+br/com/jornadacolaborativa/microservice/saga/choreography/payment/repository/UserTransactionRepository.class

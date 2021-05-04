@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <artifactId>saga-choreography</artifactId>
-        <groupId>com.vinsguru</groupId>
+        <groupId>br.com.jornadacolaborativa.microservice.saga.choreography</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
@@ -42,7 +42,7 @@
             <scope>runtime</scope>
         </dependency>
         <dependency>
-            <groupId>com.vinsguru</groupId>
+            <groupId>br.com.jornadacolaborativa.microservice.saga.choreography</groupId>
             <artifactId>common-dto</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>

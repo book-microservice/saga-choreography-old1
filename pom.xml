@@ -15,7 +15,7 @@
 		<version>2.4.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.vinsguru</groupId>
+	<groupId>br.com.jornadacolaborativa.microservice.saga.choreography</groupId>
 	<artifactId>saga-choreography</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>saga-choreography</name>
